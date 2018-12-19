@@ -43,8 +43,10 @@ To compile the image tools we need
 - libjpeg
 - libfftw
 
-We also need [youtube-dl](https://rg3.github.io/youtube-dl/) and
-[ffmpeg](https://ffmpeg.org/) to be installed.
+We also need the following command line programs to be installed in the system:
+- [youtube-dl](https://rg3.github.io/youtube-dl/)
+- [ffmpeg](https://ffmpeg.org/)
+- [jq](https://github.com/stedolan/jq) (a commandline JSON processor)
 
 
 COMPILATION
