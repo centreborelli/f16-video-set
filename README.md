@@ -33,6 +33,7 @@ performs the following steps:
 4. Removes the video file.
 
 The bursts are left as sequences of png files in separate folders 01, 02, etc.
+Two log files are left in the outpuf folder: u2b_err.log and u2b_out.log.
 
 DEPENDENCIES
 ------------
